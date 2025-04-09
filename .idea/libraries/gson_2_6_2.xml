@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="gson-2.6.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/import/gson/gson-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/import/bounce_castle/bcprov-jdk18on-1.80.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/import/bounce_castle/bcprov-jdk18on-1.80-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
